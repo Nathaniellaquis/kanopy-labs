@@ -106,7 +106,7 @@ export default function Contact() {
       icon: MapPin,
       title: 'Location',
       value: 'New York, NY',
-      link: '#',
+      link: 'https://maps.google.com/?q=New+York,+NY',
       color: '#FFA07A'
     }
   ];
